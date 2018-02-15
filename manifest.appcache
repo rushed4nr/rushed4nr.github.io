@@ -3,11 +3,13 @@ CACHE MANIFEST
 
 CACHE:
 
-#_________________ html
 index.html
+#_________________ html
 
+/images/apple-touch-icon-300x300.png
 #_________________ images
 
 #_________________ css
-
 #_________________ javascript
+
+FALLBACK:
